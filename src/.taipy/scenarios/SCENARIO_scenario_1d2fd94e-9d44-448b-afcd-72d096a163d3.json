@@ -1,0 +1,23 @@
+{
+"id": "SCENARIO_scenario_1d2fd94e-9d44-448b-afcd-72d096a163d3",
+"config_id": "scenario",
+"tasks": [
+"TASK_task_result_c33f6772-b349-42d1-8968-a873f7ffb9a4",
+"TASK_task_train_linear_regression_b507c2e6-ddc1-4cda-82e9-92f9654b434f",
+"TASK_task_preprocess_data_586fc4c9-9a46-416a-8946-3dabb1878447",
+"TASK_task_train_f2706054-0da1-446f-8434-5ad941c88a70",
+"TASK_task_forecast_linear_regression_db87bd65-82d7-4de6-9262-03c41c7989e6",
+"TASK_task_forecast_881aa9d5-f65c-4575-bb7d-68ffdc260f4c"
+],
+"additional_data_nodes": [],
+"properties": {
+"name": "some"
+},
+"creation_date": "2024-03-18T13:40:42.362000+00:00",
+"primary_scenario": false,
+"subscribers": [],
+"tags": [],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"sequences": null,
+"cycle": null
+}

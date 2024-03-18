@@ -1,0 +1,29 @@
+{
+"id": "DATANODE_date_beaaef1c-9ae8-4d71-af2b-3e4d95ae308c",
+"config_id": "date",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_1d2fd94e-9d44-448b-afcd-72d096a163d3",
+"parent_ids": [
+"TASK_task_preprocess_data_586fc4c9-9a46-416a-8946-3dabb1878447",
+"TASK_task_forecast_linear_regression_db87bd65-82d7-4de6-9262-03c41c7989e6",
+"TASK_task_result_c33f6772-b349-42d1-8968-a873f7ffb9a4"
+],
+"last_edit_date": "2024-03-18T08:41:41.933060",
+"edits": [
+{
+"timestamp": "2024-03-18T08:41:41.933060",
+"writer_identifier": "TAIPY",
+"comments": "Default data written."
+}
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true
+}
+}

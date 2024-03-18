@@ -1,0 +1,22 @@
+{
+"id": "DATANODE_model_arima_68224e76-5839-47ce-a445-d948a9559858",
+"config_id": "model_arima",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_1d2fd94e-9d44-448b-afcd-72d096a163d3",
+"parent_ids": [
+"TASK_task_train_f2706054-0da1-446f-8434-5ad941c88a70",
+"TASK_task_forecast_881aa9d5-f65c-4575-bb7d-68ffdc260f4c"
+],
+"last_edit_date": null,
+"edits": [],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true
+}
+}

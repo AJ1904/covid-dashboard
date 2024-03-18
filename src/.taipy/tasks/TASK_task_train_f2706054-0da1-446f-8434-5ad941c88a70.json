@@ -1,0 +1,19 @@
+{
+"id": "TASK_task_train_f2706054-0da1-446f-8434-5ad941c88a70",
+"owner_id": "SCENARIO_scenario_1d2fd94e-9d44-448b-afcd-72d096a163d3",
+"parent_ids": [
+"SCENARIO_scenario_1d2fd94e-9d44-448b-afcd-72d096a163d3"
+],
+"config_id": "task_train",
+"input_ids": [
+"DATANODE_train_data_3da49cd3-a2a2-4a56-8eee-a052db694038"
+],
+"function_name": "train_arima",
+"function_module": "algos.algos",
+"output_ids": [
+"DATANODE_model_arima_68224e76-5839-47ce-a445-d948a9559858"
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"skippable": false,
+"properties": {}
+}

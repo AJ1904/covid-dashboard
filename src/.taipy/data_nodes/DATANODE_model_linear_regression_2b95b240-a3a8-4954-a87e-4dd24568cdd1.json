@@ -1,0 +1,22 @@
+{
+"id": "DATANODE_model_linear_regression_2b95b240-a3a8-4954-a87e-4dd24568cdd1",
+"config_id": "model_linear_regression",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_1d2fd94e-9d44-448b-afcd-72d096a163d3",
+"parent_ids": [
+"TASK_task_forecast_linear_regression_db87bd65-82d7-4de6-9262-03c41c7989e6",
+"TASK_task_train_linear_regression_b507c2e6-ddc1-4cda-82e9-92f9654b434f"
+],
+"last_edit_date": null,
+"edits": [],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true
+}
+}

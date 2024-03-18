@@ -1,0 +1,22 @@
+{
+"id": "TASK_task_preprocess_data_586fc4c9-9a46-416a-8946-3dabb1878447",
+"owner_id": "SCENARIO_scenario_1d2fd94e-9d44-448b-afcd-72d096a163d3",
+"parent_ids": [
+"SCENARIO_scenario_1d2fd94e-9d44-448b-afcd-72d096a163d3"
+],
+"config_id": "task_preprocess_data",
+"input_ids": [
+"DATANODE_initial_data_6efa761f-d918-4e02-b62f-18dc31113ee2",
+"DATANODE_country_d903b491-aada-4d8f-ae67-4ed5d0a85c4c",
+"DATANODE_date_beaaef1c-9ae8-4d71-af2b-3e4d95ae308c"
+],
+"function_name": "preprocess",
+"function_module": "algos.algos",
+"output_ids": [
+"DATANODE_final_data_3e5f5a16-9174-4954-8340-2239057a7031",
+"DATANODE_train_data_3da49cd3-a2a2-4a56-8eee-a052db694038"
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"skippable": false,
+"properties": {}
+}

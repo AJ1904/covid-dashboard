@@ -1,0 +1,20 @@
+{
+"id": "TASK_task_forecast_linear_regression_db87bd65-82d7-4de6-9262-03c41c7989e6",
+"owner_id": "SCENARIO_scenario_1d2fd94e-9d44-448b-afcd-72d096a163d3",
+"parent_ids": [
+"SCENARIO_scenario_1d2fd94e-9d44-448b-afcd-72d096a163d3"
+],
+"config_id": "task_forecast_linear_regression",
+"input_ids": [
+"DATANODE_model_linear_regression_2b95b240-a3a8-4954-a87e-4dd24568cdd1",
+"DATANODE_date_beaaef1c-9ae8-4d71-af2b-3e4d95ae308c"
+],
+"function_name": "forecast_linear_regression",
+"function_module": "algos.algos",
+"output_ids": [
+"DATANODE_predictions_linear_regression_6edbfaf0-9f03-4bd3-810c-f8fc6fbab63e"
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"skippable": false,
+"properties": {}
+}

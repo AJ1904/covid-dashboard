@@ -1,0 +1,4 @@
+src/.data
+*.pyc
+*.zip
+src/.vscode/launch.json
