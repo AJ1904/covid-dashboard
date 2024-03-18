@@ -1,14 +1,18 @@
-# Demo Covid Dashboard
+# Covid Dashboard
 
 This project is built based on the tutorial available on Taipy website. https://docs.taipy.io/en/release-3.0/knowledge_base/demos
 
-## What is Demo Covid Dashboard
+## What is Covid Dashboard
 
-[Demo Covid Dashboard](https://github.com/aj1904/covid-dashboard) is a multi-page application showing how Taipy Core and Taipy Gui can work together to build a minimalist but powerful application. This demo visualizes a Covid dataset for the year 2020. Pages shows different graphs and information on Covid. A Prediction page is also present to predict the number of death.
+[Covid Dashboard](https://github.com/aj1904/covid-dashboard) is a multi-page application showing how Taipy Core and Taipy Gui can work together to build a minimalist but powerful application. This demo visualizes a Covid dataset for the year 2020. Pages shows different graphs and information on Covid. A Prediction page is also present to predict the number of death.
 
 **Components/Controls**: 
   - Taipy GUI: selector, chart, map, toggle, CSS Style, multi-pages, layout
   - Taipy Core: datanode, pipeline, scenario
+
+## Demo
+
+https://github.com/AJ1904/covid-dashboard/assets/49027490/d9d5c3b5-1115-44d9-bf1f-55042fb383f0
 
 ## How to run
 
