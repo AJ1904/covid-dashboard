@@ -1,0 +1,41 @@
+{
+"id": "DATANODE_date_c757cd83-acf4-47f3-b658-4fbbda48efaa",
+"config_id": "date",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_c3c6bc64-586b-4963-ba4f-7c89d9ced400",
+"parent_ids": [
+"TASK_task_forecast_linear_regression_99dbfd3f-7728-4cbc-8ad4-e8466a6940bd",
+"TASK_task_preprocess_data_2df053d6-0eff-4dbb-b370-0ae9ac69c688",
+"TASK_task_result_51b60f32-3a97-4ec0-83e3-f988e3e31c16"
+],
+"last_edit_date": "2024-03-18T09:44:36.050049",
+"edits": [
+{
+"timestamp": "2024-03-18T09:38:47.407924",
+"writer_identifier": "TAIPY",
+"comments": "Default data written."
+},
+{
+"timestamp": "2024-03-18T09:39:38.644176"
+},
+{
+"timestamp": "2024-03-18T09:39:49.710652"
+},
+{
+"timestamp": "2024-03-18T09:40:28.236801"
+},
+{
+"timestamp": "2024-03-18T09:44:36.050049"
+}
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true
+}
+}

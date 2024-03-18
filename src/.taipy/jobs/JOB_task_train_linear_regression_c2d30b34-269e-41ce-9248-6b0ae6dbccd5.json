@@ -1,0 +1,23 @@
+{
+"id": "JOB_task_train_linear_regression_c2d30b34-269e-41ce-9248-6b0ae6dbccd5",
+"task_id": "TASK_task_train_linear_regression_9dbeb297-d35d-4846-a65f-9b1a70a1ff95",
+"status": "<Status.COMPLETED: 7>",
+"force": false,
+"submit_id": "SUBMISSION_4e6c671b-2fd9-4aeb-9e9d-3b7ed1fb2874",
+"submit_entity_id": "SCENARIO_scenario_c3c6bc64-586b-4963-ba4f-7c89d9ced400",
+"creation_date": "2024-03-18T09:44:37.593211",
+"subscribers": [
+{
+"fct_name": "_Orchestrator._update_submission_status",
+"fct_params": [],
+"fct_module": "taipy.core._orchestrator._orchestrator"
+},
+{
+"fct_name": "_Orchestrator._on_status_change",
+"fct_params": [],
+"fct_module": "taipy.core._orchestrator._orchestrator"
+}
+],
+"stacktrace": [],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13"
+}

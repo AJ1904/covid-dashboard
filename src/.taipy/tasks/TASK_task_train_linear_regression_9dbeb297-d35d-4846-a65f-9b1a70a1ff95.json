@@ -1,0 +1,19 @@
+{
+"id": "TASK_task_train_linear_regression_9dbeb297-d35d-4846-a65f-9b1a70a1ff95",
+"owner_id": "SCENARIO_scenario_c3c6bc64-586b-4963-ba4f-7c89d9ced400",
+"parent_ids": [
+"SCENARIO_scenario_c3c6bc64-586b-4963-ba4f-7c89d9ced400"
+],
+"config_id": "task_train_linear_regression",
+"input_ids": [
+"DATANODE_train_data_59fe7d9c-6c51-4654-885e-dfcd584c34a7"
+],
+"function_name": "train_linear_regression",
+"function_module": "algos.algos",
+"output_ids": [
+"DATANODE_model_linear_regression_9e9070ff-1556-40dc-bf04-a0292b80aeed"
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"skippable": false,
+"properties": {}
+}

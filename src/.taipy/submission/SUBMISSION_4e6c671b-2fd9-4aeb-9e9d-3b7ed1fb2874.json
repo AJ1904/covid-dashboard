@@ -1,0 +1,28 @@
+{
+"id": "SUBMISSION_4e6c671b-2fd9-4aeb-9e9d-3b7ed1fb2874",
+"entity_id": "SCENARIO_scenario_c3c6bc64-586b-4963-ba4f-7c89d9ced400",
+"entity_type": "SCENARIO",
+"entity_config_id": "scenario",
+"job_ids": [
+"JOB_task_preprocess_data_13262b96-e190-4676-8bdf-35d007e92df4",
+"JOB_task_train_linear_regression_c2d30b34-269e-41ce-9248-6b0ae6dbccd5",
+"JOB_task_train_edc38a5f-5cca-48b2-a2ce-a61f42ef6126",
+"JOB_task_forecast_linear_regression_f322535b-7de9-4208-a13b-1efcd2414a42",
+"JOB_task_forecast_d6ee4a49-747f-44c7-b13f-6ac144aa78ea",
+"JOB_task_result_b9d10ca4-7c54-4d65-a8b5-c0adb041a6b5"
+],
+"properties": {
+"on_submission": "on_submission_change",
+"client_id": "20240106233020987495-0.4793332761363768",
+"module_context": "pages.predictions.predictions"
+},
+"creation_date": "2024-03-18T09:44:37.579992",
+"submission_status": "<SubmissionStatus.COMPLETED: 7>",
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"is_completed": true,
+"is_abandoned": false,
+"is_canceled": false,
+"running_jobs": [],
+"blocked_jobs": [],
+"pending_jobs": []
+}

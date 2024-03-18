@@ -1,0 +1,39 @@
+{
+"id": "DATANODE_country_e6f5ddd6-f3a7-4c85-8fba-dca592139165",
+"config_id": "country",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_c3c6bc64-586b-4963-ba4f-7c89d9ced400",
+"parent_ids": [
+"TASK_task_preprocess_data_2df053d6-0eff-4dbb-b370-0ae9ac69c688"
+],
+"last_edit_date": "2024-03-18T09:44:36.066484",
+"edits": [
+{
+"timestamp": "2024-03-18T09:38:47.404175",
+"writer_identifier": "TAIPY",
+"comments": "Default data written."
+},
+{
+"timestamp": "2024-03-18T09:39:38.660780"
+},
+{
+"timestamp": "2024-03-18T09:39:49.725266"
+},
+{
+"timestamp": "2024-03-18T09:40:28.254080"
+},
+{
+"timestamp": "2024-03-18T09:44:36.066484"
+}
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true
+}
+}

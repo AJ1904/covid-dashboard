@@ -1,0 +1,47 @@
+{
+"id": "DATANODE_model_linear_regression_9e9070ff-1556-40dc-bf04-a0292b80aeed",
+"config_id": "model_linear_regression",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_c3c6bc64-586b-4963-ba4f-7c89d9ced400",
+"parent_ids": [
+"TASK_task_forecast_linear_regression_99dbfd3f-7728-4cbc-8ad4-e8466a6940bd",
+"TASK_task_train_linear_regression_9dbeb297-d35d-4846-a65f-9b1a70a1ff95"
+],
+"last_edit_date": "2024-03-18T09:44:38.600644",
+"edits": [
+{
+"job_id": "JOB_task_train_linear_regression_6181fa9a-75a7-4713-a127-86cec61dd9eb",
+"timestamp": "2024-03-18T09:39:10.799338"
+},
+{
+"job_id": "JOB_task_train_linear_regression_8c6e0f29-2d99-44cd-b8fe-e558d598c022",
+"timestamp": "2024-03-18T09:40:02.181208"
+},
+{
+"job_id": "JOB_task_train_linear_regression_b22a05f5-fe19-4898-94b2-3f8f17cb7610",
+"timestamp": "2024-03-18T09:40:22.310442"
+},
+{
+"job_id": "JOB_task_train_linear_regression_50e8a356-9605-484e-916c-063f41cc58cc",
+"timestamp": "2024-03-18T09:40:35.709849"
+},
+{
+"job_id": "JOB_task_train_linear_regression_e095b320-1641-4b13-aef4-ab722e13a949",
+"timestamp": "2024-03-18T09:44:25.813169"
+},
+{
+"job_id": "JOB_task_train_linear_regression_c2d30b34-269e-41ce-9248-6b0ae6dbccd5",
+"timestamp": "2024-03-18T09:44:38.600644"
+}
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true
+}
+}

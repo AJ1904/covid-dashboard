@@ -1,0 +1,47 @@
+{
+"id": "DATANODE_predictions_linear_regression_e413a1e5-72f4-4f5a-b432-0fa10a146a81",
+"config_id": "predictions_linear_regression",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_c3c6bc64-586b-4963-ba4f-7c89d9ced400",
+"parent_ids": [
+"TASK_task_forecast_linear_regression_99dbfd3f-7728-4cbc-8ad4-e8466a6940bd",
+"TASK_task_result_51b60f32-3a97-4ec0-83e3-f988e3e31c16"
+],
+"last_edit_date": "2024-03-18T09:44:39.479930",
+"edits": [
+{
+"job_id": "JOB_task_forecast_linear_regression_1d266b83-90fa-40f8-aaf8-5fd1d223e916",
+"timestamp": "2024-03-18T09:39:11.589615"
+},
+{
+"job_id": "JOB_task_forecast_linear_regression_90a3c5c4-a642-456f-9fcb-bfba464ef16a",
+"timestamp": "2024-03-18T09:40:03.025343"
+},
+{
+"job_id": "JOB_task_forecast_linear_regression_b00ea6b9-f99a-4fc7-920a-6cc91a2f8482",
+"timestamp": "2024-03-18T09:40:23.141300"
+},
+{
+"job_id": "JOB_task_forecast_linear_regression_42f3f7fc-0a72-468d-958f-1ccc9b30842a",
+"timestamp": "2024-03-18T09:40:37.307088"
+},
+{
+"job_id": "JOB_task_forecast_linear_regression_8bfb91a1-7453-4515-8f1d-0377c3801e89",
+"timestamp": "2024-03-18T09:44:27.419995"
+},
+{
+"job_id": "JOB_task_forecast_linear_regression_f322535b-7de9-4208-a13b-1efcd2414a42",
+"timestamp": "2024-03-18T09:44:39.479930"
+}
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true
+}
+}

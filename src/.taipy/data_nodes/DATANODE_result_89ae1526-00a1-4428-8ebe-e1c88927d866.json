@@ -1,0 +1,46 @@
+{
+"id": "DATANODE_result_89ae1526-00a1-4428-8ebe-e1c88927d866",
+"config_id": "result",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_c3c6bc64-586b-4963-ba4f-7c89d9ced400",
+"parent_ids": [
+"TASK_task_result_51b60f32-3a97-4ec0-83e3-f988e3e31c16"
+],
+"last_edit_date": "2024-03-18T09:44:39.523983",
+"edits": [
+{
+"job_id": "JOB_task_result_486a86cb-ef44-47f1-bbd3-8041700c9ca8",
+"timestamp": "2024-03-18T09:39:11.637442"
+},
+{
+"job_id": "JOB_task_result_b0174494-37e0-447d-98f0-d61e40143111",
+"timestamp": "2024-03-18T09:40:03.067835"
+},
+{
+"job_id": "JOB_task_result_380afb2d-cb84-47b2-8505-1e13c9365f7c",
+"timestamp": "2024-03-18T09:40:23.183452"
+},
+{
+"job_id": "JOB_task_result_054ff970-7003-4242-9ab5-33b613588088",
+"timestamp": "2024-03-18T09:40:37.350559"
+},
+{
+"job_id": "JOB_task_result_5ce88162-ec4d-4546-80d3-7b4db6f6cc31",
+"timestamp": "2024-03-18T09:44:27.463523"
+},
+{
+"job_id": "JOB_task_result_b9d10ca4-7c54-4d65-a8b5-c0adb041a6b5",
+"timestamp": "2024-03-18T09:44:39.523983"
+}
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true
+}
+}

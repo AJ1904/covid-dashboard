@@ -1,0 +1,47 @@
+{
+"id": "DATANODE_model_arima_ad44bb9e-c35c-4cec-885d-f804f2bbf1ab",
+"config_id": "model_arima",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_scenario_c3c6bc64-586b-4963-ba4f-7c89d9ced400",
+"parent_ids": [
+"TASK_task_forecast_21330bdd-a7c7-403e-95ac-3a99b9db025d",
+"TASK_task_train_443128b4-de2b-4ce1-8974-616d2478e176"
+],
+"last_edit_date": "2024-03-18T09:44:39.456732",
+"edits": [
+{
+"job_id": "JOB_task_train_7a396f79-40f9-45fc-9945-3ac667349176",
+"timestamp": "2024-03-18T09:39:11.567317"
+},
+{
+"job_id": "JOB_task_train_e3b178e0-c287-4c05-8612-69cc4dc12f2d",
+"timestamp": "2024-03-18T09:40:03.004150"
+},
+{
+"job_id": "JOB_task_train_64e964cf-b9a6-4450-8947-123379a2fe19",
+"timestamp": "2024-03-18T09:40:23.121020"
+},
+{
+"job_id": "JOB_task_train_ff144c1e-2263-42ab-bec5-0a350fd37f2a",
+"timestamp": "2024-03-18T09:40:37.285265"
+},
+{
+"job_id": "JOB_task_train_42b501f8-87c9-4709-baf6-f1622e0347f6",
+"timestamp": "2024-03-18T09:44:27.398887"
+},
+{
+"job_id": "JOB_task_train_edc38a5f-5cca-48b2-a2ce-a61f42ef6126",
+"timestamp": "2024-03-18T09:44:39.456732"
+}
+],
+"version": "cbfd21d4-601b-4e01-9b7d-d71b26ae3b13",
+"validity_days": 5,
+"validity_seconds": 0,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true
+}
+}
